@@ -81,5 +81,5 @@ create table ES(
 INSERT INTO setor (nome_setor) VALUES ('EXPEDIÇÃO')
 INSERT INTO setor (nome_setor) VALUES ('MATÉRIA-PRIMA')
 INSERT INTO setor (nome_setor) VALUES ('ALMOXARIFADO')
-INSERT INTO setor (nome_setor) VALUES ('GESCRAP')
+INSERT INTO setor (nome_setor) VALUES ('SUCATA')
 INSERT INTO setor (nome_setor) VALUES ('SAÍDA NF')
