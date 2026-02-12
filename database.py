@@ -6,7 +6,7 @@ import pandas as pd
 conn = pymysql.connect(
     host='127.0.0.1',
     user='root',
-    password='1234!Daniel',
+    password='xxxxxxxxxxx',
     database='entsys',
     port=3306
 )
