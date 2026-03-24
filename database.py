@@ -112,7 +112,7 @@ def buscar_carreta_por_veiculo(placa_veiculo):
         return resultado[0]
     return ""
 
-def registrar_saida(placa_veiculo): # Ignora a carreta na consulta para evitar o erro de saída
+def registrar_saida(placa_veiculo, placa_carreta): # Ignora a carreta na consulta para evitar o erro de saída
     saida = datetime.now()
     
     cursor.execute('''
